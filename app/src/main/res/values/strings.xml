@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Information Book</string>
+
+    <string name="albania">
+
+        <b>Capital</b> \t\t\t\t\t\t\t\t\t\t\t\t\t\t: Tirana \n
+        <b>Largest City</b>\t\t\t\t\t\t\t\t\t: Tirana \n
+        <b>National Language</b>\t: Albanian \n
+        <b>Total Area</b>\t\t\t\t\t\t\t\t\t\t\t:11,100 sq mi \n
+        <b>Currency</b>\t\t\t\t\t\t\t\t\t\t\t\t: Lek \n\n
+
+        \t\tAlbania, officially the Republic of Albania, is a country in Southeastern Europe. It is located on the Adriatic and Ionian Seas within the Mediterranean Sea and shares land borders with Montenegro to the northwest, Kosovo to the northeast, North Macedonia to the east and Greece to the south. Tirana is its capital and largest city, followed by Durrës, Vlorë, and Shkodër.
+
+\n\n\t\tAlbania displays varied climatic, geological, hydrological, and morphological conditions, defined in an area of 28,748 km2 (11,100 sq mi). It possesses significant diversity with the landscape ranging from the snow-capped mountains in the Albanian Alps as well as the Korab, Skanderbeg, Pindus and Ceraunian Mountains to the hot and sunny coasts of the Albanian Adriatic and Ionian Sea along the Mediterranean Sea.
+
+\n\n\t\tAlbania has been inhabited by different civilisations over time, such as the Illyrians, Thracians, Greeks, Romans, Byzantines, Venetians, and Ottomans. The Albanians established the autonomous Principality of Arbër in the 12th century. The Kingdom of Albania and Principality of Albania formed between the 13th and 14th centuries. Prior to the Ottoman conquest of Albania in the 15th century, the Albanian resistance to Ottoman expansion into Europe led by Skanderbeg won them acclaim over most of Europe. Albania remained under Ottoman rule for nearly five centuries, during which many Albanians (known as Arnauts) attained high-ranking offices in the empire, especially in the Southern Balkans and Egypt. Between the 18th and 19th centuries, cultural developments, widely attributed to Albanians having gathered both spiritual and intellectual strength, conclusively led to the Albanian Renaissance. After the defeat of the Ottomans in the Balkan Wars, the modern nation state of Albania declared independence in 1912. In the 20th century, the Kingdom of Albania was invaded by Italy, which formed Greater Albania before becoming a protectorate of Nazi Germany. Enver Hoxha formed the People\'s Socialist Republic of Albania after World War II, modeled under the terms of Hoxhaism. The Revolutions of 1991 concluded the fall of communism in Albania and eventually the establishment of the current Republic of Albania.
+
+\n\n\t\tAlbania is a unitary parliamentary constitutional republic and a developing country with an upper-middle income economy dominated by the service sector, followed by manufacturing. It went through a process of transition following the end of communism in 1990, from centralised planning to a market-based economy. Albania provides universal health care and free primary and secondary education to its citizens. Albania is a member of the United Nations, World Bank, UNESCO, NATO, WTO, COE, OSCE, and OIC. It has been an official candidate for membership in the European Union since 2014. It is one of the founding members of the Energy Community, including the Organization of the Black Sea Economic Cooperation and Union for the Mediterranean.
+
+    </string>
+
+    <string name="argentina">
+
+        <b>Capital</b> \t\t\t\t\t\t\t\t\t\t\t\t\t\t: Buenos Aires \n
+        <b>Largest City</b>\t\t\t\t\t\t\t\t\t: Buenos Aires \n
+        <b>National Language</b>\t: Spanish \n
+        <b>Total Area</b>\t\t\t\t\t\t\t\t\t\t\t: 2,780,400  sq mi \n
+        <b>Currency</b>\t\t\t\t\t\t\t\t\t\t\t\t: Argentine peso \n\n
+
+       \t\tArgentina, officially the Argentine Republic, is a country in the southern half of South America. Argentina covers an area of 2,780,400 km2 (1,073,500 sq mi), making it the largest Spanish-speaking nation in the world by area. It is the second-largest country in South America after Brazil, the fourth-largest country in the Americas, and the eighth-largest country in the world. It shares the bulk of the Southern Cone with Chile to the west, and is also bordered by Bolivia and Paraguay to the north, Brazil to the northeast, Uruguay and the South Atlantic Ocean to the east, and the Drake Passage to the south. Argentina is a federal state subdivided into twenty-three provinces, and one autonomous city, which is the federal capital and largest city of the nation, Buenos Aires. The provinces and the capital have their own constitutions, but exist under a federal system. Argentina claims sovereignty over a part of Antarctica, the Falkland Islands and South Georgia and the South Sandwich Islands.
+
+\n\n\t\tThe earliest recorded human presence in modern-day Argentina dates back to the Paleolithic period. The Inca Empire expanded to the northwest of the country in Pre-Columbian times. The country has its roots in Spanish colonization of the region during the 16th century. Argentina rose as the successor state of the Viceroyalty of the Río de la Plata, a Spanish overseas viceroyalty founded in 1776. The declaration and fight for independence (1810–1818) was followed by an extended civil war that lasted until 1861, culminating in the country\'s reorganization as a federation. The country thereafter enjoyed relative peace and stability, with several waves of European immigration, mainly Italians and Spaniards, radically reshaping its cultural and demographic outlook; over 60% of the population has full or partial Italian ancestry, and Argentine culture has significant connections to Italian culture.
+
+\n\n\t\tThe almost-unparalleled increase in prosperity led to Argentina becoming the seventh-wealthiest nation in the world by the early 20th century. In 1896, Argentina\'s GDP per capita surpassed that of the United States and was consistently in the top ten before at least 1920. Currently, it is ranked 71st in the world. Following the Great Depression in the 1930s, Argentina descended into political instability and economic decline that pushed it back into underdevelopment, although it remained among the fifteen richest countries for several decades. Following the death of President Juan Perón in 1974, his widow and vice president, Isabel Perón, ascended to the presidency, before being overthrown in 1976. The following military junta, which was supported by the United States, persecuted and murdered thousands of political critics, activists, and leftists in the Dirty War, a period of state terrorism and civil unrest that lasted until the election of Raúl Alfonsín as president in 1983.
+
+\n\n\t\tArgentina is a regional power, and retains its historic status as a middle power in international affairs. Argentina is a developing country that ranks 46th in the Human Development Index, the second-highest in Latin America after Chile. It maintains the second-largest economy in South America, and is a member of G-15 and G20. Argentina is also a founding member of the United Nations, World Bank, World Trade Organization, Mercosur, Community of Latin American and Caribbean States and the Organization of Ibero-American States. Since January 2022 Argentina is an OECD candidate country.
+
+    </string>
+
+    <string name="brazil">
+
+        <b>Capital</b> \t\t\t\t\t\t\t\t\t\t\t\t\t\t: Brasília \n
+        <b>Largest City</b>\t\t\t\t\t\t\t\t\t: São Paulo \n
+        <b>National Language</b>\t: Portuguese \n
+        <b>Total Area</b>\t\t\t\t\t\t\t\t\t\t\t: 8,515,767 sq mi \n
+        <b>Currency</b>\t\t\t\t\t\t\t\t\t\t\t\t: Real \n\n
+
+       \t\tBrazil, officially the Federative Republic of Brazil, is the largest country in both South America and Latin America. At 8.5 million square kilometers (3,300,000 sq mi) and with over 211 million people, Brazil is the world\'s fifth-largest country by area and the sixth most populous. Its capital is Brasília, and its most populous city is São Paulo. The federation is composed of the union of the 26 states and the Federal District. It is the largest country to have Portuguese as an official language and the only one in the Americas; it is also one of the most multicultural and ethnically diverse nations, due to over a century of mass immigration from around the world; as well as the most populous Roman Catholic-majority country.
+
+\n\n\t\tBounded by the Atlantic Ocean on the east, Brazil has a coastline of 7,491 kilometers (4,655 mi). It borders all other countries and territories in South America except Ecuador and Chile and covers 47.3% of the continent\'s land area. Its Amazon basin includes a vast tropical forest, home to diverse wildlife, a variety of ecological systems, and extensive natural resources spanning numerous protected habitats. This unique environmental heritage makes Brazil one of 17 megadiverse countries, and is the subject of significant global interest, as environmental degradation through processes like deforestation has direct impacts on global issues like climate change and biodiversity loss.
+
+\n\n\t\tBrazil was inhabited by numerous tribal nations prior to the landing in 1500 of explorer Pedro Álvares Cabral, who claimed the area for the Portuguese Empire. Brazil remained a Portuguese colony until 1808 when the capital of the empire was transferred from Lisbon to Rio de Janeiro. In 1815, the colony was elevated to the rank of kingdom upon the formation of the United Kingdom of Portugal, Brazil and the Algarves. Independence was achieved in 1822 with the creation of the Empire of Brazil, a unitary state governed under a constitutional monarchy and a parliamentary system. The ratification of the first constitution in 1824 led to the formation of a bicameral legislature, now called the National Congress. The country became a presidential republic in 1889 following a military coup d\'état. An authoritarian military junta came to power in 1964 and ruled until 1985, after which civilian governance resumed. Brazil\'s current constitution, formulated in 1988, defines it as a democratic federal republic. Due to its rich culture and history, the country ranks thirteenth in the world by number of UNESCO World Heritage Sites.
+
+\n\n\t\tBrazil is a regional and middle power, and is also classified as an emerging power. It is considered an advanced emerging economy, having the twelfth largest GDP in the world by nominal, and eighth by PPP measures, the largest in Latin America. As an upper-middle income economy by the World Bank and a newly industrialized country, Brazil has the largest share of global wealth in South America and it is one of the world\'s major breadbaskets, being the largest producer of coffee for the last 150 years. However, the country maintains noticeable amounts of corruption, crime and social inequality. Brazil is a founding member of the United Nations, the G20, BRICS, Mercosul, Organization of American States, Organization of Ibero-American States and the Community of Portuguese Language Countries.
+    </string>
+
+
+
+</resources>
