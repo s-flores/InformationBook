@@ -36,6 +36,9 @@ public class WondersActivity extends AppCompatActivity {
                 if(position ==0){
                     tab.setText("Taj Mahal");
                 }
+                else if(position==1){
+                    tab.setText("Chichen Itza");
+                }
             }
         });
         tabLayoutMediator.attach();

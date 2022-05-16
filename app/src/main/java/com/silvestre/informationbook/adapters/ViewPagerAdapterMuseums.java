@@ -6,14 +6,11 @@ import androidx.fragment.app.FragmentManager;
 import androidx.lifecycle.Lifecycle;
 import androidx.viewpager2.adapter.FragmentStateAdapter;
 
-import com.silvestre.informationbook.fragments.FragmentAlbania;
-import com.silvestre.informationbook.fragments.FragmentArgentina;
-import com.silvestre.informationbook.fragments.FragmentBrazil;
-import com.silvestre.informationbook.fragments.FragmentChichenItza;
-import com.silvestre.informationbook.fragments.FragmentTajMahal;
+import com.silvestre.informationbook.fragments.FragmentLouvre;
+import com.silvestre.informationbook.fragments.FragmentHermitage;
 
-public class ViewPagerAdapterWonders extends FragmentStateAdapter {
-    public ViewPagerAdapterWonders(@NonNull FragmentManager fragmentManager, @NonNull Lifecycle lifecycle) {
+public class ViewPagerAdapterMuseums extends FragmentStateAdapter {
+    public ViewPagerAdapterMuseums(@NonNull FragmentManager fragmentManager, @NonNull Lifecycle lifecycle) {
         super(fragmentManager, lifecycle);
     }
 
@@ -25,10 +22,10 @@ public class ViewPagerAdapterWonders extends FragmentStateAdapter {
 
         switch (position){
             case 0:
-                fragment = FragmentTajMahal.newInstance();
+                fragment = FragmentLouvre.newInstance();
                 break;
             case 1:
-                fragment = FragmentChichenItza.newInstance();
+                fragment = FragmentHermitage.newInstance();
                 break;
             default:
                 return null;
@@ -39,6 +36,6 @@ public class ViewPagerAdapterWonders extends FragmentStateAdapter {
 
     @Override
     public int getItemCount() {
-        return 2 ;
+        return 2;
     }
 }

@@ -73,7 +73,7 @@ public class AdapterClass extends RecyclerView.Adapter<AdapterClass.CardViewHold
 
     @Override
     public int getItemCount() {
-        return modelList.size();
+        return modelList.size(); 
     }
 
     public class CardViewHolder extends RecyclerView.ViewHolder {
